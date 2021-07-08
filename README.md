@@ -1,5 +1,9 @@
 # Doorguard
 
+**THIS PROJECT IS CURRENTLY UNMAINTAINED DUE TO THE LACK OF TIME AND MIGHT NOT WORK AT ALL AT THIS EARLY STAGE**
+
+
+
 A secure (MIFARE DESFire based) RFID access control system for the ESP8266.
 
 ## Motivation
